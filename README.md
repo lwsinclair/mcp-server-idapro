@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/fdrechsler-mcp-server-idapro-badge.png)](https://mseep.ai/app/fdrechsler-mcp-server-idapro)
+
 # IDA Pro MCP Server
 
 A Model Context Protocol (MCP) server that enables AI assistants to interact with IDA Pro for reverse engineering and binary analysis tasks.
